@@ -35,4 +35,4 @@ Check out my blog at [jukedisc.xyz](https://jukedisc.xyz) for my latest thoughts
 
 ## Connect with Me
 
-{"instagram":"https://www.instagram.com/theo.dross/"}
+[Instagram](https://www.instagram.com/theo.dross)
