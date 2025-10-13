@@ -16,11 +16,6 @@ I'm currently working at **Braxy Developments**, where I focus on crafting dynam
 
 
 ## GitHub Stats
-
-- Public Repositories: **1**
-- Followers: **0**
-- Following: **0**
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theodross&show_icons=true&theme=radical)
 
 ## Recent Activity
