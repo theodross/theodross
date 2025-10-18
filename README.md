@@ -6,10 +6,6 @@ I'm **Theo Dross**, a passionate **Discord Bot & Web Developer** from **Greece**
 
 I'm currently working at **Braxy Developments**, where I focus on crafting dynamic web applications and Discord bots using **JavaScript**, **MongoDB**, and **HTML/CSS**. I enjoy solving complex problems and collaborating with others to create amazing digital experiences.
 
-## Skills & Technologies
-
-
-
 ## Top Projects
 
 - [theodross](https://github.com/theodross/theodross) - A personal repository showcasing my projects and contributions. ⭐️ 0
